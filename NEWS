@@ -1,0 +1,74 @@
+Changes for 0.1.4
+---------------
+17/01/2017
+Cleaned up imports and bug trapped. For upload to CRAN
+
+Changes for 0.1.4
+---------------
+13/01/2017
+Minor tweaks and error trapping in the EOO algorithm. Intial upload to CRAN
+
+Changes for 0.1.3
+---------------
+11/01/2017
+Addition of ConBatch to batch processing multiple species in one fuction, use with caution!
+
+Changes for 0.1.2
+---------------
+11/01/2017
+Documentation, updates
+
+Changes for 0.1.1
+---------------
+04/01/2017
+Documentation, example scripts, dummy data and vignettes added
+
+Changes for 0.1.0
+---------------
+21/12/2016
+Projection wizard and true COF added
+
+Changes for 0.0.9
+---------------
+20/12/2016
+Building into a package for release into CRAN
+
+Changes for 0.0.8
+---------------
+19/12/2016
+Addition of projection wizard
+
+Changes for 0.0.7
+---------------
+24/11/2016
+Addition of EOOArea
+
+Changes for 0.0.6
+---------------
+28/09/2016
+Addition of EOO polygon returns
+
+Changes for 0.0.5
+---------------
+26/09/2016
+Addition of MER
+
+Changes for 0.0.4
+---------------
+31/08/2016
+Various cleaning up and testing
+
+Changes for 0.0.3
+---------------
+19/07/2016
+Simple AOO cleaned up
+ 
+Changes for 0.0.2
+---------------
+12/07/2016
+Simple AOO
+
+Changes for 0.0.1
+---------------
+13/06/2016
+Start up
