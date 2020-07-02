@@ -24,10 +24,9 @@ used to calculate "true" centre of set of lat longs
 \note{
 http://stackoverflow.com/questions/9604132/how-to-project-a-point-on-to-a-sphere
 }
-\author{
-Justin Moat. J.Moat@kew.org
-}
 \references{
 Descartes, R., 1637. Discours de la methode. A Leyde, De l’imprimerie de I. Maire, Paris.
 }
-
+\author{
+Justin Moat. J.Moat@kew.org
+}

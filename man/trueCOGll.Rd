@@ -21,10 +21,9 @@ long <- runif (200,43,51)
 ll <- data.frame(lat,long)
 cp <- trueCOGll(ll)
 }
-\author{
-Justin Moat. J.Moat@kew.org
-}
 \references{
 Descartes, R., 1637. Discours de la methode. A Leyde, De l’imprimerie de I. Maire, Paris.
 }
-
+\author{
+Justin Moat. J.Moat@kew.org
+}

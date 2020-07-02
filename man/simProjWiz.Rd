@@ -37,12 +37,11 @@ ll <- data.frame(lat,long)
 cp <- trueCOGll(ll)
 pointsprojected <- simProjWiz(ll,cp)
 }
-\author{
-Justin Moat. J.Moat@kew.org
-}
 \references{
 Šavric, B., Jenny, B., Jenny, H., 2016. Projection Wizard – An Online Map Projection Selection Tool. Cartogr. J. 53, 1–9. doi:10.1080/00087041.2015.1131938
 
 Snyder, J.P., 1987. Map projections: A working manual, Professional Paper. Washington, D.C.
 }
-
+\author{
+Justin Moat. J.Moat@kew.org
+}

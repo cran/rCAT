@@ -25,9 +25,6 @@ Near Threatened is set at 3,000 km2, follow example in IUCN Guidelines version 1
 AOOArea <- 25 
 AOORtext <- EOORating(AOOArea,FALSE)
 }
-\author{
-Justin Moat. J.Moat@kew.org
-}
 \references{
 Bachman, S., Moat, J., Hill, A.W., de Torre, J., Scott, B., 2011. Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool. Zookeys 126, 117–26. doi:10.3897/zookeys.150.2109 
 
@@ -44,4 +41,6 @@ Joppa, L.N., Butchart, S.H.M., Hoffmann, M., Bachman, S.P., Akçakaya, H.R., Moa
 \seealso{
 \code{\link{AOOsimp}} for AOO calculations
 }
-
+\author{
+Justin Moat. J.Moat@kew.org
+}

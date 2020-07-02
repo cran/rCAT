@@ -35,9 +35,13 @@
 #' 
 #' 
 #' @examples
-#' mydata <- read.csv(system.file("extdata","multiple_species.csv",package="rCAT"))
-#' resultdf <- ConBatch(mydata$scientificname,mydata$latitude,mydata$longitude,2000,FALSE)
-#' 
+#' lat <- runif (200,-24,-12)
+#' long <- runif (200,43,51)
+#' spa <- rep('aa',50)
+#' spb <- rep('bb',150)
+#' mydata <- data.frame(species=c(spa,spb),lat,long)
+#' resultsdf <- ConBatch(mydata$species,mydata$lat,mydata$long,2000,FALSE)
+#'
 #' @references 
 #' Bachman, S., Moat, J., Hill, A.W., de Torre, J., Scott, B., 2011. Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool. Zookeys 126, 117–26. doi:10.3897/zookeys.150.2109 
 #' 

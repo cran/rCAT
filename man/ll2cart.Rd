@@ -24,10 +24,9 @@ thepoints <- data.frame(lat,long)
 llrad <- deg2rad(thepoints)
 cartp <- ll2cart(llrad$lat,llrad$long)
 }
-\author{
-Justin Moat. J.Moat@kew.org
-}
 \references{
 Descartes, R., 1637. Discours de la methode. A Leyde, De l’imprimerie de I. Maire, Paris.
 }
-
+\author{
+Justin Moat. J.Moat@kew.org
+}

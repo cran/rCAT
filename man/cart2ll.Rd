@@ -22,4 +22,3 @@ calculates the latitude and longtitude cordinates in radians from Cartesian coor
 \author{
 Justin Moat. J.Moat@kew.org
 }
-

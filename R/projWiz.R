@@ -55,7 +55,7 @@ simProjWiz <- function(thepoints,thecentre){
   proj4string(thepoints) <- CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs") # geographic and WGS 84
   #depending on centre point
   if((thecentre$lat < 70) & (thecentre$lat > -70)){
-    CRSstring <- paste("+proj=cea +lon_0=", thecentre$long,   "+lat_ts=0 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs",sep = "")
+    CRSstring <- paste("+proj=cea +lon_0=", thecentre$long,   " +lat_ts=0 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs",sep = "")
   } else {
     CRSstring <- paste("+proj=laea +lat_0=", thecentre$lat," +lon_0=", thecentre$long, " +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs",sep = "")
   }

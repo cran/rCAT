@@ -22,4 +22,3 @@ rad2deg(b)
 \author{
 Justin Moat. J.Moat@kew.org
 }
-

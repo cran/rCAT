@@ -28,9 +28,6 @@ Any negative values are assumpted to be positive. Near Threatened is set at 30,0
 EOOArea <- 25 
 EOORtext <- EOORating(EOOArea,TRUE)
 }
-\author{
-Justin Moat. J.Moat@kew.org
-}
 \references{
 Bachman, S., Moat, J., Hill, A.W., de Torre, J., Scott, B., 2011. Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool. Zookeys 126, 117–26. doi:10.3897/zookeys.150.2109 
 
@@ -47,4 +44,6 @@ Joppa, L.N., Butchart, S.H.M., Hoffmann, M., Bachman, S.P., Akçakaya, H.R., Moa
 \seealso{
 \code{\link{EOOarea}} for EOO calculations
 }
-
+\author{
+Justin Moat. J.Moat@kew.org
+}

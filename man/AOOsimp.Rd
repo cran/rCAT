@@ -26,9 +26,6 @@ y <- runif (20,0,10)
 df <- data.frame(x,y)
 AOOsimp (df,2)
 }
-\author{
-Justin Moat. J.Moat@kew.org
-}
 \references{
 Bachman, S., Moat, J., Hill, A.W., de Torre, J., Scott, B., 2011. Supporting Red List threat assessments with GeoCAT: geospatial conservation assessment tool. Zookeys 126, 117–26. doi:10.3897/zookeys.150.2109 
 
@@ -37,4 +34,6 @@ Moat, J., Bachman, S., n.d. GeoCAT Geospatial Conservation Assessment Tool. URL 
 \seealso{
 \code{\link{AOORating}} for AOO Ratings,
 }
-
+\author{
+Justin Moat. J.Moat@kew.org
+}
